@@ -1,0 +1,1 @@
+import{_ as e,e as a,o as r}from"./index-Dwitn7lI.js";const c={};function n(o,t){return r(),a("p",null,"warbands Here!")}const _=e(c,[["render",n],["__scopeId","data-v-03c6790a"]]);export{_ as default};
